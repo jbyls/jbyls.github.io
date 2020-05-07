@@ -26,7 +26,7 @@ url                      : "https://jasonbylsma.info"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jbyls/jbyls.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/img/headshot_square.png"
+logo                     : "/assets/img/city.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Jason Bylsma"
   avatar           : "/assets/img/headshot_square.png"
-  bio              : "tabula rasa"
+  bio              : "He who is ashamed to ask is afraid of learning."
   location         : "Boston, MA"
   email            :
   links:
