@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-permalink: /year-archive/
+permalink: /blog/
 layout: posts
 ---

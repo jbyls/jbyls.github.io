@@ -1,7 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-//$link-color: #022169;
+
+// Custom colors
+$primary-color: #022169; //Columbia blue
+$link-color: $primary-color;
+$link-color-hover: mix(#fff, $link-color, 70%);
 
 @charset "utf-8";
 

@@ -5,8 +5,6 @@ main:
   - title: "Bio"
     url: /bio/
   - title: "Blog"
-    url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
+    url: /blog/
   - title: "CV"
     url: /cv/

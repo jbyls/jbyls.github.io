@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Jason Bylsma"
   avatar           : "/assets/img/headshot_square.png"
-  bio              : "He who is ashamed to ask is afraid of learning."
+  bio              : "He who is ashamed to ask is afraid of learning. | The best way to predict the future is to create it."
   location         : "Boston, MA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:bylsma.jason@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jasonbylsma.info"
