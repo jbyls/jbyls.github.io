@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : jasonbylsma
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Jason Bylsma"
   avatar           : "/assets/img/headshot_square.png"
-  bio              : "I am an **amazing** person."
+  bio              : "tabula rasa"
   location         : "Boston, MA"
   email            :
   links:
@@ -105,10 +105,10 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://jasonbylsma.info"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/jasonbylsma"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -118,13 +118,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jasonbylsma/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/jasonbylsma"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
