@@ -34,12 +34,16 @@ While I've always enjoyed time on my bike, whether commuting to school or out to
   <figcaption>This isn't Amsterdam.</figcaption>
 </figure>
 
-To bring all three topics back around, I think making streets safe enough for all ages to safely have the option to ride a bike is the right thing to do. I'm sure I'll make the case in multiple blog posts for the many benefits of safe cycling infrastructure:
-* Economic
-* Climate
-* Equity
-* Safety
-* Health
+To bring all three topics back around, I think making streets safe enough for all ages to safely have the option to ride a bike is the right thing to do. Some of my fondest memories are riding around the neighborhood when I was a kid. Now that I live in Boston, I'm afraid my kids won't get to have the same experiences because the streets just aren't safe. I'm sure I'll make the case in multiple blog posts for the many benefits of safe cycling infrastructure, including:
+* **Economic** - Driving costs society $$ while cycling _saves_ society $$
+* **Efficiency** - riding a bike is the most efficient mode of transport on a kcal/km basis, right next to walking but much faster
+* **Climate** - zero emissions, potential for 2-6 gigatons CO2e reduced[^3]
+* **Quality of Life** - increased cycling reduces congestion, pollution, noise and access to mobility 
+* **Health** - cycling has been shown to help build muscle and bone, and is great for heart, brain and blood vessels
+
+My 4-year old recently summed up my love for cycling pretty well, while riding a hilly street closed to car traffic:
+>I feel like I have powers!
 
 [^1]: [National Academies Press](https://www.nap.edu/read/12781/chapter/5)
 [^2]: [Florida Cycling Law](https://floridacyclinglaw.com/blog/archives/florida-bicycling-dangerous-by-design)
+[^3] [Project Drawdown](https://drawdown.org/solutions/bicycle-infrastructure)
