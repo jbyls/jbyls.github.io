@@ -1,7 +1,7 @@
 ---
 title: "Hello world!"
 header:
-  image: /assets/img/header-helloWorld.jpg
+  image: /assets/img/05202020/header-helloWorld.jpg
   caption: "Photo credit: [John Towner](https://unsplash.com/@heytowner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags: [intro,bikes,climate change,hardware,startups]
 ---
@@ -26,7 +26,7 @@ Generally they say some companies are making _vitamins_ and some companies are m
 ## 3. Cycling & Safe Streets
 While I've always enjoyed time on my bike, whether commuting to school or out to run errands, the advocacy piece I've only recently stumbled into. After a tragic [pedestrian fatality in my neighborhood](https://www.boston25news.com/news/pedestrian-struck-in-west-roxbury/915163059/) I started waking up to the endless ways our city streets and leaders are failing us, particularly here in the US. I grew up riding around and across Tampa, FL, a city notorious for being hostile to bike riders in the street.[^2] In 2008 I was able to visit the Netherlands to tour graduate programs, where I got to experience what quality bike infrastructure can do for a city, a population and a culture. Now, while regular bike commuting might not work for everyone everywhere, the refrain I've heard at countless community meetings, "this isn't Amsterdam" is just nonsense.
 {% capture fig_img %}
-![Foo]({{ "/assets/img/old-couple-cycling.jpg" | relative_url }})
+![Foo]({{ "/assets/img/05202020/old-couple-cycling.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -38,7 +38,7 @@ To bring all three topics back around, I think making streets safe enough for al
 * **Economic** - Driving costs society $$ while cycling _saves_ society $$
 * **Efficiency** - riding a bike is the most efficient mode of transport on a kcal/km basis, right next to walking but much faster
 * **Climate** - zero emissions, potential for 2-6 gigatons CO2e reduced[^3]
-* **Quality of Life** - increased cycling reduces congestion, pollution, noise and access to mobility 
+* **Quality of Life** - increased cycling reduces congestion, pollution, noise and access to mobility
 * **Health** - cycling has been shown to help build muscle and bone, and is great for heart, brain and blood vessels
 
 My 4-year old recently summed up my love for cycling pretty well, while riding a hilly street closed to car traffic:
