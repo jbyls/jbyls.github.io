@@ -46,4 +46,4 @@ My 4-year old recently summed up my love for cycling pretty well, while riding a
 
 [^1]: [National Academies Press](https://www.nap.edu/read/12781/chapter/5)
 [^2]: [Florida Cycling Law](https://floridacyclinglaw.com/blog/archives/florida-bicycling-dangerous-by-design)
-[^3] [Project Drawdown](https://drawdown.org/solutions/bicycle-infrastructure)
+[^3]: [Project Drawdown](https://drawdown.org/solutions/bicycle-infrastructure)

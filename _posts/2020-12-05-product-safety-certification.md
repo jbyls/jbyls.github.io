@@ -5,7 +5,7 @@ tags: [engineering,product,management,hardware,startups]
 ---
 Have you ever looked at the backside of a kid's toy, your toaster oven, or a pre-2014 iPhone like mine to find a series of strange icons or some alphanumeric code?
 {% capture fig_img %}
-![Foo]({{ "/assets/img/120502020/safety_certs.png" | relative_url }})
+![Foo]({{ "/assets/img/12052020/safety_certs.png" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -28,7 +28,7 @@ Most of the costliest product recalls in modern history occurred in just the las
 So how do you actually get a new product certified to be "safe" and who gives you the stamp of approval? In the mid-20th Century, OSHA regualtions made specific reference to two private testing bodies (UL & FM), but a lawsuit in 1983 forced them to remove those references and the Cambrian Explosion of Nationally Recognized Testing Laboratories (NRTLs) began. Now there are something like 16 NRTLs to choose from and 125 sites to get your new product tested and approved.
 
 {% capture fig_img %}
-![Foo]({{ "/assets/img/120502020/The-spread-of-flame-test.jpg" | relative_url }})
+![Foo]({{ "/assets/img/12052020/The-spread-of-flame-test.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
