@@ -3,7 +3,6 @@ title: "4 Types of Cyclists in Film and Television"
 header:
 tags: [bikes,culture,transportation]
 ---
-# 4 Types of Cyclists in Film & TV
 
 Popular culture casts an ugly shadow on anyone riding a bike for something other than a romantic roll by the beach. We paint bike commuters either as greasy rulebreakers or grown babies refusing more responsibility. The fact of the matter is that although only [0.6% of commuting is done by bike](https://www.census.gov/library/stories/2019/05/younger-workers-in-cities-more-likely-to-bike-to-work.html) in the US, that covers a range of age, gender, and race. Cyclists are not a monolith.
 
