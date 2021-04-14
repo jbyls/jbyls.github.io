@@ -57,7 +57,7 @@ The calibration process currently requires the user to enable the overlay of det
 
 I continuously measured vehicle traffic along Centre Street in West Roxbury, MA, a busy arterial street that directly connects the neighborhood's business district to points North and into downtown Boston. Centre St was identified in Boston's "Safest Driver Competition" in 2019 as a problem speeding area and is on Boston's High Crash Network. Data was collected for approximately two weeks from March 28 to April 11. This section of street is lined with multi-family residences and there are many kids on my block in particular.
 
-{% include gallery id="gallery_speeds" layout='' %}}
+{% include gallery id="gallery_speeds" layout='' %}
 
 [Link to Data](https://public.tableau.com/views/VehicleSpeeds-CentreStMontclair-WestRoxburyMA/Speed?:language=en&:display_count=y&:origin=viz_share_link)
 
@@ -66,10 +66,10 @@ The data shows a periodic pattern in vehicle speed statistics, with **median spe
 > 25th to 75th percentile speeds on Centre St are well above the posted speed limit of 25 mph at all hours, 7 days a week.
 
 
-{% include gallery id="gallery_counts" layout='' %}}
+{% include gallery id="gallery_counts" layout='' %}
 
 
-[Link to Data](https://public.tableau.com/views/VehicleSpeeds-CentreStMontclair-WestRoxburyMA/Count?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
+[Link to Data](https://public.tableau.com/views/VehicleSpeeds-CentreStMontclair-WestRoxburyMA/Count?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 Vehicle counts in each direction clearly show the morning rush hour peak of **800 vehicles per hour** northbound, which levels off to ~400 per hour the rest of the day. Then there is the return peak of ~600 vehicles per hour southbound around the hours of 4-7pm. As expected, the morning rush spike is completely absent on Saturdays and Sunday has the lowest vehicle counts of the week in either direction. Keep in mind these vehicle counts are still during COVID, while everyone is writing about the permanence of remote work. It sure seems like gridlock is back in Boston (the former ["worst traffic congestion" winner of 2019 & 2020](https://www.bostonglobe.com/2020/03/09/metro/boston-ranks-worst-us-rush-hour-traffic-second-year-row/)).
 
