@@ -4,6 +4,16 @@ header:
   image:
   caption: ""
 tags: [electronics, projects, cities, transportation]
+gallery_speeds:
+  - url: /assets/img/04142021/vehicle-speed-plot.png
+    image_path: /assets/img/04142021/vehicle-speed-plot.png
+    alt: "vehicle speeds Boston"
+    title: "Vehicle speeds Centre St West Roxbury, MA"
+gallery_counts:
+  - url: /assets/img/04142021/vehicle-count-plot.png
+    image_path: /assets/img/04142021/vehicle-count-plot.png
+    alt: "vehicle counts Boston"
+    title: "Vehicle counts Centre St West Roxbury, MA"
 ---
 Many people that live on or near busy streets share a similar concern: "Everyone drives too fast here." I hear it constantly from families with kids on my street (including my own), locals, newcomers, tourists, city officials, and even transportation planners. The problem is no one ever backs up these observations with any evidence. Occasionally when road design changes are proposed, the local transportation department will conduct a short-term, localized "speed study", which may or may not be representative of monthly average traffic speeds and volume. When it comes to local adherence to safe driving laws, as the old NASA slogan goes, "In God we trust, all others bring data."
 
@@ -47,15 +57,7 @@ The calibration process currently requires the user to enable the overlay of det
 
 I continuously measured vehicle traffic along Centre Street in West Roxbury, MA, a busy arterial street that directly connects the neighborhood's business district to points North and into downtown Boston. Centre St was identified in Boston's "Safest Driver Competition" in 2019 as a problem speeding area and is on Boston's High Crash Network. Data was collected for approximately two weeks from March 28 to April 11. This section of street is lined with multi-family residences and there are many kids on my block in particular.
 
-{% capture fig_img %}
-![Foo]({{ "/assets/img/04142021/vehicle-speed-plot.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption></figcaption>
-</figure>
-<br>
+{% include gallery id="gallery_speeds" layout='' %}}
 
 [Link to Data](https://public.tableau.com/views/VehicleSpeeds-CentreStMontclair-WestRoxburyMA/Speed?:language=en&:display_count=y&:origin=viz_share_link)
 
@@ -64,7 +66,7 @@ The data shows a periodic pattern in vehicle speed statistics, with **median spe
 > 25th to 75th percentile speeds on Centre St are well above the posted speed limit of 25 mph at all hours, 7 days a week.
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/04142021/vehicle-count-plot.png" alt="" class="full">
+{% include gallery id="gallery_counts" layout='' %}}
 
 
 [Link to Data](https://public.tableau.com/views/VehicleSpeeds-CentreStMontclair-WestRoxburyMA/Count?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
