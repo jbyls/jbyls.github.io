@@ -1,7 +1,7 @@
 ---
 title: "Cheap vehicle speed camera with Raspberry Pi"
 header:
-  image:
+  image: /assets/img/04142021/vehicle-speed-header.png
   caption: ""
 tags: [electronics, projects, cities, transportation]
 gallery_speeds:
