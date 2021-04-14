@@ -63,15 +63,9 @@ The data shows a periodic pattern in vehicle speed statistics, with **median spe
 
 > 25th to 75th percentile speeds on Centre St are well above the posted speed limit of 25 mph at all hours, 7 days a week.
 
-{% capture fig_img %}
-![Foo]({{ "/assets/img/04142021/vehicle-count-plot.png" | relative_url }})
-{% endcapture %}
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption></figcaption>
-</figure>
-<br>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/04142021/vehicle-count-plot.png" alt="" class="full">
+
 
 [Link to Data](https://public.tableau.com/views/VehicleSpeeds-CentreStMontclair-WestRoxburyMA/Count?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
 
