@@ -1,5 +1,5 @@
 ---
-title: "Learned & unlearned helplessness in (US) babies and toddlers "
+title: "Learned and unlearned helplessness in babies and toddlers"
 header:
   image: /assets/img/01152022/toddler-feeding.jpg
   caption: "A toddler barely able to feed itself. Photo by <a href="https://unsplash.com/@ross_sokolovski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ross Sokolovski</a> on <a href="https://unsplash.com/s/photos/toddler-eating?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
