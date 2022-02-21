@@ -1,7 +1,9 @@
 ---
 title: "Learned & unlearned helplessness in human babies and toddlers"
 header:
-tags:
+  image: /assets/img/01152022/toddler-feeding.jpg
+  caption: "A toddler barely able to feed itself."
+tags: [culture,people,startups]
 ---
 As we are deep into yet another Covid winter alone at home with a 1-yr old and a hyperactive 6-yr old, I find myself contemplating the way little humans relate or don't relate to our mammalian relatives at similar ages. Basic life functions such as locomotion, eyesight development, and the ability to hunt or feed are absolutely critical in the wild, and much less so in 2022 in the developed world, though I can point to numerous examples where fully-grown humans seem to get on just fine without much development in these three areas. Nevertheless, it seems that the animal world consistently raises and trains their young in basic life skills much sooner than we humans do. 
 
